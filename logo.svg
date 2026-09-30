@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 170" role="img" aria-label="F&amp;A">
+  <!-- Reconstrucción vectorial del monograma, adaptada a fondo oscuro.
+       Reemplazar por el archivo original del diseñador cuando aparezca. -->
+  <path d="M34 68 C10 96 20 134 52 146 C88 160 128 150 156 124"
+        fill="none" stroke="#C2A183" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-weight="700" fill="#FAF8F5">
+    <text x="22" y="116" font-size="120">F</text>
+    <text x="88" y="140" font-size="136">A</text>
+  </g>
+  <text x="66" y="138" font-family="Georgia, 'Times New Roman', serif" font-size="64"
+        font-weight="700" fill="#C2A183">&amp;</text>
+</svg>
